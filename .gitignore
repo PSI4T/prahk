@@ -1,4 +1,4 @@
-/compile/*
-/family/blank
-/family/accounts/unregister
+compile/
+family/blank
+family/accounts/unregister
 .gitignore
