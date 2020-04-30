@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Conor_Hokage
+NICKNAME=Conor_Hokage|Dexter_Bunt|Sprite_Nealson|Slaider_Rantanen
 PASSWORD=7782F7EE3CA6457F4CAF78565AF17D35
 FIRSTNAME=Антон
 LASTNAME=Петрушка

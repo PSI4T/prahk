@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Jordan_Coffeino
+NICKNAME=Jordan_Coffeino|Jordan_Steinmann
 PASSWORD=F7ADAEB76F6554BC303363595196BE79
 FIRSTNAME=Джордан
 LASTNAME=Коффеино

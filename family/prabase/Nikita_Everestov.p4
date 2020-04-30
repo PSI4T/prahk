@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Nikita_Everestov
+NICKNAME=Nikita_Everestov|Waldemar_Everestov
 PASSWORD=4C64B8DD32AC76FE680899C932B83A76
 FIRSTNAME=Никита
 LASTNAME=Эверестов

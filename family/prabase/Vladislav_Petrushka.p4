@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Vladislav_Petrushka
+NICKNAME=Vladislav_Petrushka|Bim_Vasmin
 PASSWORD=1964BB9AB65A0472A191375062310EF9
 FIRSTNAME=Владислав
 LASTNAME=Петрушка

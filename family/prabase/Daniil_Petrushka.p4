@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Daniil_Petrushka
+NICKNAME=Daniil_Petrushka|Dany_Dental|Yato_Bezdomniy
 PASSWORD=291C27F0864F383A0997A0A6B2C9FE04
 FIRSTNAME=Даниил
 LASTNAME=Петрушка

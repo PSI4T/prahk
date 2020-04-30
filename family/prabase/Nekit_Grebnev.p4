@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Nekit_Grebnev
+NICKNAME=Nekit_Grebnev|Nikita_Grebnev
 PASSWORD=10A3849E7EF74CBB3CC792BF76600E93
 FIRSTNAME=Никита
 LASTNAME=Гребнев

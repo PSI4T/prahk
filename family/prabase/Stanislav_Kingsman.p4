@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Stanislav_Kingsman
+NICKNAME=Stanislav_Kingsman|Stanislav_Petrushka
 PASSWORD=C31AC605793F580B386C0FB53F1B9775
 FIRSTNAME=Станислав
 LASTNAME=Кингсман

@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Vlad_Forester
+NICKNAME=Vlad_Forester|Alex_Chester|Sprite_Nealson|Slaider_Rantanen
 PASSWORD=3E59D7D789C258E3AF23C974AEB040ED
 FIRSTNAME=Влад
 LASTNAME=Форестер

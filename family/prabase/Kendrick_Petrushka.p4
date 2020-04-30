@@ -1,5 +1,5 @@
 [Player]
-NICKNAME=Kendrick_Petrushka
+NICKNAME=Kendrick_Petrushka|Yulia_Novikova
 PASSWORD=4CB210DB6D83A7225126506147795D1C
 FIRSTNAME=Кендрик
 LASTNAME=Петрушка
