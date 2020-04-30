@@ -1,4 +1,4 @@
-[Vasiliy_Petrushka]
+[Player]
 NICKNAME=Vasiliy_Petrushka|Arseniy_Psychoz
 PASSWORD=0BD675D820865AEE4FBAE07676D4CB76
 FIRSTNAME=Василий
@@ -18,6 +18,13 @@ REGISTERED=30.08.2018
 TRUCKER=1
 ROBBER=1
 FISH=1
-[Arseniy_Psychoz]
+[Twink1]
 FirstName=Арсений
 LastName=Псайчоз
+[Twink2]
+FirstName=Второй
+LastName=Твинк
+[Arseniy_Psychoz]
+FirstName=Второй
+LastName=Твинк
+
