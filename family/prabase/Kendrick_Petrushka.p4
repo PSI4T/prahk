@@ -1,0 +1,20 @@
+[Player]
+NICKNAME=Kendrick_Petrushka
+PASSWORD=4CB210DB6D83A7225126506147795D1C
+FIRSTNAME=Кендрик
+LASTNAME=Петрушка
+MIDDLENAME=Васильевич
+GENDER=0
+BIRTHDAY=20.11.2001
+NICKNAMES=Dmitry_Fedulov > Yulia_Novikova > Dmitry_Kingsman > Dmitry_Stark > Kendrick_Petrushka <
+URL=191389785
+[Family]
+LVL=1
+COIN=0
+WARN=0
+RANK=0
+REGISTERED=21.03.2020
+[Access]
+TRUCKER=1
+ROBBER=1
+FISH=1
