@@ -1,4 +1,5 @@
 compile/
 family/blank
 family/accounts/unregister
+family/prabase/noregister
 .gitignore
