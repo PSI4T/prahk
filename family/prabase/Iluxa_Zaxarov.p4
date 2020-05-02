@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Iluxa_Zaxarov|Ilya_Grebnev
+ACCOUNTS=Iluxa_Zaxarov|Ilya_Grebnev
+NICKNAME=Iluxa_Zaxarov
 PASSWORD=A04ECC1C96206DECC222015E8A0FCDFB
 FIRSTNAME=Илья
 LASTNAME=Захаров
@@ -18,3 +19,6 @@ REGISTERED=02.08.2019
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Илья
+LastName=Гребнев

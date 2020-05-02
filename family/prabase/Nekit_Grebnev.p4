@@ -1,7 +1,8 @@
 [Player]
-NICKNAME=Nekit_Grebnev|Nikita_Grebnev
+ACCOUNTS=Nekit_Grebnev|Nikita_Grebnev
+NICKNAME=Nekit_Grebnev
 PASSWORD=10A3849E7EF74CBB3CC792BF76600E93
-FIRSTNAME=Никита
+FIRSTNAME=Никит
 LASTNAME=Гребнев
 MIDDLENAME=Васильевич
 GENDER=0
@@ -18,3 +19,6 @@ REGISTERED=24.02.2019
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Некита
+LastName=Гребнев

@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Daniil_Petrushka|Dany_Dental|Yato_Bezdomniy
+ACCOUNTS=Daniil_Petrushka|Dany_Dental|Yato_Bezdomniy
+NICKNAME=Daniil_Petrushka
 PASSWORD=291C27F0864F383A0997A0A6B2C9FE04
 FIRSTNAME=Даниил
 LASTNAME=Петрушка
@@ -18,3 +19,6 @@ REGISTERED=30.10.2018
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Дани
+LastName=Дентал

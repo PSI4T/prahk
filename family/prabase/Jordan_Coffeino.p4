@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Jordan_Coffeino|Jordan_Steinmann
+ACCOUNTS=Jordan_Coffeino|Jordan_Steinmann
+NICKNAME=Jordan_Coffeino
 PASSWORD=F7ADAEB76F6554BC303363595196BE79
 FIRSTNAME=Джордан
 LASTNAME=Коффеино
@@ -18,3 +19,6 @@ REGISTERED=19.12.2018
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Джордан
+LastName=Стейман

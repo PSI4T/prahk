@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Sergey_Grebnev|Kirill_Dental|Serega_Grebnev
+ACCOUNTS=Sergey_Grebnev|Kirill_Dental|Serega_Grebnev
+NICKNAME=Sergey_Grebnev
 PASSWORD=AD72D267E9ECB72BC6E5F39927A59D6E
 FIRSTNAME=Сергей
 LASTNAME=Гребнев
@@ -18,3 +19,6 @@ REGISTERED=11.11.2018
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Кирилл
+LastName=Дентал

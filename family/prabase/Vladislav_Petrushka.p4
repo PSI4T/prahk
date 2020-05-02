@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Vladislav_Petrushka|Bim_Vasmin
+ACCOUNTS=Vladislav_Petrushka|Bim_Vasmin
+NICKNAME=Vladislav_Petrushka
 PASSWORD=1964BB9AB65A0472A191375062310EF9
 FIRSTNAME=Владислав
 LASTNAME=Петрушка
@@ -18,3 +19,6 @@ REGISTERED=16.08.2019
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Бим
+LastName=Васмин

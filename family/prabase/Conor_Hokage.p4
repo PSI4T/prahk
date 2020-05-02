@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Conor_Hokage|Dexter_Bunt|Sprite_Nealson|Slaider_Rantanen
+ACCOUNTS=Conor_Hokage|Dexter_Bunt
+NICKNAME=Conor_Hokage
 PASSWORD=7782F7EE3CA6457F4CAF78565AF17D35
 FIRSTNAME=Антон
 LASTNAME=Петрушка
@@ -18,3 +19,6 @@ REGISTERED=14.08.2019
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Декстер
+LastName=Бунт

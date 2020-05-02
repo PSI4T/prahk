@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Kendrick_Petrushka|Yulia_Novikova
+ACCOUNTS=Kendrick_Petrushka|Yulia_Novikova
+NICKNAME=Kendrick_Petrushka
 PASSWORD=4CB210DB6D83A7225126506147795D1C
 FIRSTNAME=Кендрик
 LASTNAME=Петрушка
@@ -18,3 +19,6 @@ REGISTERED=21.03.2020
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Юлия
+LastName=Новикова

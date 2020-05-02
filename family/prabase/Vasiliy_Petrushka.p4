@@ -21,8 +21,4 @@ ROBBER=1
 FISH=1
 [Twink]
 FirstName=Арсений
-LastName=Псайчоз
-[Arseniy_Psychoz]
-FirstName=Второй
-LastName=Твинк
-
+LastName=Псайхоз

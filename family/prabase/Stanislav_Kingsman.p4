@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Stanislav_Kingsman|Stanislav_Petrushka
+ACCOUNTS=Stanislav_Kingsman|Stanislav_Petrushka
+NICKNAME=Stanislav_Kingsman
 PASSWORD=C31AC605793F580B386C0FB53F1B9775
 FIRSTNAME=Станислав
 LASTNAME=Кингсман
@@ -18,3 +19,6 @@ REGISTERED=18.08.2019
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Станислав
+LastName=Петрушка

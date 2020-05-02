@@ -1,5 +1,6 @@
 [Player]
-NICKNAME=Vlad_Forester|Alex_Chester|Sprite_Nealson|Slaider_Rantanen
+ACCOUNTS=Vlad_Forester|Alex_Chester
+NICKNAME=Vlad_Forester
 PASSWORD=3E59D7D789C258E3AF23C974AEB040ED
 FIRSTNAME=Влад
 LASTNAME=Форестер
@@ -18,3 +19,6 @@ REGISTERED=09.04.2020
 TRUCKER=0
 ROBBER=1
 FISH=0
+[Twink]
+FirstName=Алекс
+LastName=Честер
