@@ -1,5 +1,5 @@
 [Player]
-ACCOUNTS=Sergey_Grebnev|Kirill_Dental|Serega_Grebnev
+ACCOUNTS=Sergey_Grebnev|Kirill_Dental|Tatsuki_Psychoz
 NICKNAME=Sergey_Grebnev
 PASSWORD=AD72D267E9ECB72BC6E5F39927A59D6E
 FIRSTNAME=Сергей
