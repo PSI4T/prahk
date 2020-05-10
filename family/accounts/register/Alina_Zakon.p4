@@ -10,12 +10,12 @@ BIRTHDAY=22.07.2003
 NICKNAMES=Alira_Stark > Alina_Petrushka > Alina_Sand > Alinka_Grebneva > Anna_Grebneva > Alina_Sand > Alina_Zakon
 URL=157507871
 [Family]
-LVL=1
 WARN=0
 COIN=538
 RANK=
 REGISTERED=26.01.2019
 [Access]
+FAMILY=1
 TRUCKER=0
 ROBBER=0
 FISH=0

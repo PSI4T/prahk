@@ -10,12 +10,12 @@ BIRTHDAY=13.07.2002
 NICKNAMES=Andrey_Verhovny > Jordan_Steinmann > Jonni_Capuleti > Jordan_Petrushka > Jordan_Dental > Jordan_Ghost > Erjan_Mathers <
 URL=330010124
 [Family]
-LVL=1
 COIN=78
 WARN=0
 RANK=
 REGISTERED=19.12.2018
 [Access]
+FAMILY=1
 TRUCKER=0
 ROBBER=1
 FISH=0
