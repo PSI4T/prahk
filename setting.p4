@@ -8,5 +8,5 @@ Delete=
 Accounts=https://raw.githubusercontent.com/PSI4T/prahk/master/family/accounts/register/
 Twinks=https://raw.githubusercontent.com/PSI4T/prahk/master/family/accounts/twinks/
 Rank=https://raw.githubusercontent.com/PSI4T/prahk/master/family/ranks/rank
-Info=https://raw.githubusercontent.com/PSI4T/prahk/master/family/baseinfo.ini
+Info=https://raw.githubusercontent.com/PSI4T/prahk/master/family/baseinfo.p4
 Config=https://raw.githubusercontent.com/PSI4T/prahk/master/apps/settings/screensize/
