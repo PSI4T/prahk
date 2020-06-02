@@ -1,5 +1,5 @@
 [Player]
-ACCOUNTS=Conor_Hokage|Dexter_Bunt
+ACCOUNTS=Conor_Hokage|Dexter_Bunt|Nikolay_Gan
 NICKNAME=Conor_Hokage
 PASSWORD=7782F7EE3CA6457F4CAF78565AF17D35
 FIRSTNAME=Антон

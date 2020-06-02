@@ -1,6 +1,6 @@
 [SCRIPT]
-Version=0.3.4.6
-Date=12.05.2020
+Version=0.3.4.7
+Date=02.06.2020
 Url=https://github.com/PSI4T/prahk/blob/master/apps/PRASMART.exe?raw=true
 Name=PRASMART
 Delete=
@@ -10,3 +10,4 @@ Twinks=https://raw.githubusercontent.com/PSI4T/prahk/master/family/accounts/twin
 Rank=https://raw.githubusercontent.com/PSI4T/prahk/master/family/ranks/rank
 Info=https://raw.githubusercontent.com/PSI4T/prahk/master/family/baseinfo.p4
 Config=https://raw.githubusercontent.com/PSI4T/prahk/master/apps/settings/screensize/
+BlackList=https://raw.githubusercontent.com/PSI4T/prahk/master/family/blacklist.p4
