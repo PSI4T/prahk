@@ -1,5 +1,5 @@
 [Player]
-ACCOUNTS=Alina_Zakon,Alina_Sand,Alina_Moon
+ACCOUNTS=Alina_Zakon|Alina_Sand|Alina_Moon
 NICKNAME=Alina_Zakon
 Password=938CEB9B79DF979EB3B24C037DB9DB09
 FirstName=Алина
