@@ -1,5 +1,5 @@
 [Player]
-ACCOUNTS=Vladislav_Petrushka|Bim_Vasmin|Maxim_Shcherbakov
+ACCOUNTS=Vladislav_Petrushka|Bim_Vasmin
 NICKNAME=Vladislav_Petrushka
 PASSWORD=1964BB9AB65A0472A191375062310EF9
 FIRSTNAME=Владислав
