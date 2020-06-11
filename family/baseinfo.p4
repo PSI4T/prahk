@@ -1,4 +1,5 @@
 [Family]
+Name=*PRA* SQUAD
 Bank=0
 Engraving=PRA
 AdsNorm=2
