@@ -1,4 +1,4 @@
-[Family]
+[FAMILY]
 Name=*PRA* SQUAD
 Bank=0
 Engraving=PRA
