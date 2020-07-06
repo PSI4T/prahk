@@ -1,7 +1,6 @@
 [WHITELIST]
 Vlad_Forester="Договор (VP) [09.04.20]"
 Alex_Chester="Договор (VP) [09.04.20]"
-German_Fedorof="Договор (CH) [25.06.20]"
 [ETERNALLIST]
 
 [BLACKLIST]
@@ -15,9 +14,10 @@ Shelby="Вражеская семья (VP) [01.06.20]"
 Resonans="Вражеская семья (VP) [01.06.20]"
 Morlboro="Вражеская семья (VP) [01.06.20]"
 [WHITEFAMILY]
-Petrushka="Основной (VP) [01.00.19]"
-Grebnev="Союз (VP) [01.00.19]"
-Everestov="Союз (VP) [01.00.19]"
+Petrushka="Основной (VP) [01.01.19]"
+Grebnev="Союз (VP) [01.01.19]"
+Everestov="Союз (VP) [01.01.19]"
+Fest="Союз (VP) [01.01.19]"
 
 
 
