@@ -1,6 +1,6 @@
 [SCRIPT]
-Version=0.3.6.2
-Date=02.07.2020
+Version=0.3.6.3
+Date=06.07.2020
 Url=https://github.com/PSI4T/prahk/blob/master/apps/PRASMART.exe?raw=true
 Name=PRASMART
 Delete=
