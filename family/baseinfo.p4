@@ -1,7 +1,7 @@
 [FAMILY]
 Name=*PRA* SQUAD
 Bank=3000000
-BankUpdate=2020070612
+BankUpdate=2020070605
 Engraving=PRA
 AdsNorm=2
 RepNorm=0
