@@ -1,0 +1,22 @@
+[Player]
+ACCOUNTS=Jefferson_Defense
+NICKNAME=Jefferson_Defense
+PASSWORD=306B0FF1E7344E954FAE28CDAD7A9333
+FIRSTNAME=Джеффесон
+LASTNAME=Дефенц
+MIDDLENAME=Петрушкович
+GENDER=0
+BIRTHDAY=08.04.2003
+NICKNAMES= Ivann_Eduqzo > Ivan_Rosenberg > Ivan_Kingsman > Jefferson_Midnight > Jefferson_Capuleti > Jefferson_Defense
+URL=195916509
+[Family]
+COIN=0
+WARN=0
+RANK=
+INVITED=09.04.2020
+REGISTERED=13.07.2020
+[Access]
+FAMILY=1
+TRUCKER=0
+ROBBER=1
+FISH=0
