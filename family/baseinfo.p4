@@ -1,10 +1,11 @@
 [FAMILY]
-Name=*PRA* SQUAD
-Bank=2954000
-BankUpdate=2020071222
-Engraving=PRA
-AdsNorm=2
-RepNorm=0
-CashNorm=6000
-ListName=Vasiliy_Petrushka|Conor_Hokage|Daniil_Petrushka|Danil_Everestov|Iluxa_Zaxarov|Nekit_Grebnev|Nikita_Everestov|Sergey_Grebnev|Tim_Tsibin|Stanislav_Kingsman|Jordan_Coffeino|Kendrick_Petrushka|Vlad_Forester|Alina_Zakon
-Color=2
+BANK=2954000
+BANKUPDATE=2020071222
+CASHNORM=6000
+ADSNORM=2
+REPNORM=0
+COLOR=2
+NAME=*PRA* SQUAD
+ENGRAVING=PRA
+LISTNAME=Vasiliy_Petrushka|Conor_Hokage|Daniil_Petrushka|Danil_Everestov|Iluxa_Zaxarov|Nekit_Grebnev|Nikita_Everestov|Sergey_Grebnev|Tim_Tsibin|Stanislav_Kingsman|Jordan_Coffeino|Kendrick_Petrushka|Vlad_Forester|Alina_Zakon
+PASSWORD=573F40B030C011CEC34E0FC32C513BBE
