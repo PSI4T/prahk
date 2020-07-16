@@ -8,4 +8,4 @@ COLOR=2
 NAME=*PRA* SQUAD
 ENGRAVING=PRA
 LISTNAME=Vasiliy_Petrushka|Conor_Hokage|Daniil_Petrushka|Danil_Everestov|Iluxa_Zaxarov|Nekit_Grebnev|Nikita_Everestov|Sergey_Grebnev|Tim_Tsibin|Stanislav_Kingsman|Jordan_Coffeino|Kendrick_Petrushka|Vlad_Forester|Alina_Zakon|Vladislav_Petrushka|Crash_Ellesse|Jefferson_Defense
-PASSWORD=573F40B030C011CEC34E0FC32C513BBE
+PASSWORD=BFE46BE73926B6EDA308015ED341A6F5
