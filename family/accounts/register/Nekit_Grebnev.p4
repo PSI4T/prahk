@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=06.01.2003
 NICKNAMES=Nikita_Gladkov > Roma_White > Roma_Petrushka > Nikita_Grebnev > Roma_Sand
 URL=355121808
+SUCCESS=0
 [Family]
 SCORE=18
 COIN=0

@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=19.12.2004
 NICKNAMES=Toxa_Gan > Nikolay_Gan > Conor_Hokage <
 URL=537462402
+SUCCESS=2
 [Family]
 SCORE=0
 COIN=0

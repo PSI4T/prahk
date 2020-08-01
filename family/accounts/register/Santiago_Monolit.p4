@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=18.03.2002
 NICKNAMES=Andriy_Monolit > Santiago_Monolit
 URL=503686087
+SUCCESS=0
 [Family]
 SCORE=0
 COIN=0

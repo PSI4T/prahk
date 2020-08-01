@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=08.04.2003
 NICKNAMES= Ivann_Eduqzo > Ivan_Rosenberg > Ivan_Kingsman > Jefferson_Midnight > Jefferson_Capuleti > Jefferson_Defense
 URL=195916509
+SUCCESS=0
 [Family]
 SCORE=0
 COIN=0

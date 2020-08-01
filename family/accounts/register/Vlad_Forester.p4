@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=24.04.2006
 NICKNAMES=Alex_Chester > Vlad_Kruk > Vlad_Forester
 URL=552591950
+SUCCESS=2
 [Family]
 SCORE=0
 COIN=0

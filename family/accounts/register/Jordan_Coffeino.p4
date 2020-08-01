@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=13.07.2002
 NICKNAMES=Andrey_Verhovny > Jordan_Steinmann > Jonni_Capuleti > Jordan_Petrushka > Jordan_Dental > Jordan_Ghost > Erjan_Mathers <
 URL=330010124
+SUCCESS=0
 [Family]
 SCORE=78
 COIN=0

@@ -9,6 +9,7 @@ GENDER=0
 BIRTHDAY=20.11.2001
 NICKNAMES=Dmitry_Fedulov > Yulia_Novikova > Dmitry_Kingsman > Dmitry_Stark > Kendrick_Petrushka <
 URL=191389785
+SUCCESS=0
 [Family]
 SCORE=0
 COIN=0
