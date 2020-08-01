@@ -10,6 +10,7 @@ BIRTHDAY=18.03.2002
 NICKNAMES=Andriy_Monolit > Santiago_Monolit
 URL=503686087
 [Family]
+SCORE=0
 COIN=0
 WARN=0
 RANK=

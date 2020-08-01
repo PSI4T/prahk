@@ -10,6 +10,7 @@ BIRTHDAY=13.12.2003
 NICKNAMES=Vlad_Shcherbakov > Vladislav_Petrushka
 URL=249303541
 [Family]
+SCORE=0
 COIN=0
 WARN=0
 RANK=

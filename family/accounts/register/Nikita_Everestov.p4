@@ -10,7 +10,8 @@ BIRTHDAY=12.09.2004
 NICKNAMES=Nikita_Xyeter > Nikita_Everestov > Rikki_Rich > Nikita_Everestov
 URL=301307316
 [Family]
-COIN=3389
+SCORE=3389
+COIN=0
 WARN=0
 RANK=
 INVITED=13.11.2018

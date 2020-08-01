@@ -10,6 +10,7 @@ BIRTHDAY=15.03.2005
 NICKNAMES=Iluxa_Grebnev > Ilya_Grebnev > Iluxa_Zaxarov <
 URL=454011972
 [Family]
+SCORE=0
 COIN=0
 WARN=0
 RANK=

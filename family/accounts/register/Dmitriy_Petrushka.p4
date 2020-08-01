@@ -10,7 +10,8 @@ BIRTHDAY=19.04.2006
 NICKNAMES=Brain_Parker > Brian_Petrushka > Dmitriy_Petrushka
 URL=225636719
 [Family]
-COIN=102
+SCORE=102
+COIN=0
 WARN=0
 RANK=
 INVITED=19.10.2018

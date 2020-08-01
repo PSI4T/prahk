@@ -10,8 +10,9 @@ BIRTHDAY=17.12.1998
 NICKNAMES=Vasiliy_Petruchka > Vasiliy_Psycho > Vasiliy_Shtorm > Vasiliy_Petrushka
 URL=205911977
 [Family]
+SCORE=0
+COIN=0
 WARN=0
-COIN=200000
 RANK=100
 INVITED=30.08.2018
 REGISTERED=30.08.2018
