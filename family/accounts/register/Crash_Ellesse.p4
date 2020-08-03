@@ -7,7 +7,7 @@ LASTNAME=Эллис
 MIDDLENAME=Алексеевич
 GENDER=0
 BIRTHDAY=09.10.2005
-NICKNAMES=Vanya_Chelovek>Tobbie_Hurakan >Jake_Petrushka > Ivan_Saucony >Antoine_Evans>Maximus_Morningstar >Crash_Ellesse 
+NICKNAMES=Vanya_Chelovek>Tobbie_Hurakan>Jake_Petrushka>Ivan_Saucony>Antoine_Evans>Maximus_Morningstar>Crash_Ellesse 
 URL=257311548
 SUCCESS=0
 [Family]

@@ -7,7 +7,7 @@ LASTNAME=Плюнык
 MIDDLENAME=Олегович
 GENDER=0
 BIRTHDAY=18.03.2002
-NICKNAMES=Andriy_Monolit > Santiago_Monolit
+NICKNAMES=Andriy_Monolit>Santiago_Monolit
 URL=503686087
 SUCCESS=0
 [Family]

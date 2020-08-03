@@ -7,7 +7,7 @@ LastName=Закон
 MiddleName=Эвелинова
 Gender=1
 BIRTHDAY=22.07.2003
-NICKNAMES=Alira_Stark > Alina_Petrushka > Alina_Sand > Alinka_Grebneva > Anna_Grebneva > Alina_Sand > Alina_Zakon
+NICKNAMES=Alira_Stark>Alina_Petrushka>Alina_Sand>Alinka_Grebneva>Anna_Grebneva>Alina_Sand>Alina_Zakon
 URL=157507871
 SUCCESS=2
 [Family]

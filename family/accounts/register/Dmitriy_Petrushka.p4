@@ -7,7 +7,7 @@ LASTNAME=Петрушка
 MIDDLENAME=Васильевич
 GENDER=0
 BIRTHDAY=19.04.2006
-NICKNAMES=Brain_Parker > Brian_Petrushka > Dmitriy_Petrushka
+NICKNAMES=Brain_Parker>Brian_Petrushka>Dmitriy_Petrushka
 URL=225636719
 SUCCESS=1
 [Family]

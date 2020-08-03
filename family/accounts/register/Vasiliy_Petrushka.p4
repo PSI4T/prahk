@@ -7,7 +7,7 @@ LASTNAME=Петрушка
 MIDDLENAME=Иванович
 GENDER=0
 BIRTHDAY=17.12.1998
-NICKNAMES=Vasiliy_Petruchka > Vasiliy_Psycho > Vasiliy_Shtorm > Vasiliy_Petrushka
+NICKNAMES=Vasiliy_Petruchka>Vasiliy_Psycho>Vasiliy_Shtorm>Vasiliy_Petrushka
 URL=205911977
 SUCCESS=12
 [Family]
