@@ -2,7 +2,8 @@
 Vlad_Forester="Договор. Подпись: VP. Дата: 09.04.20"
 Alex_Chester="Договор. Подпись: VP. Дата: 09.04.20"
 [ETERNALLIST]
-
+Nikita_Borovk="ДМ основателя на территории дома. Подпись: VP. Дата: 06.08.20"
+Max_Grishanov="ДМ основателя на территории дома. Подпись: VP. Дата: 06.08.20"
 [BLACKLIST]
 
 [BLACKFAMILY]
