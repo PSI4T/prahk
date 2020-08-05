@@ -2,12 +2,12 @@
 ACCOUNTS=Vasiliy_Petrushka|Arseniy_Psychoz|Vasiliy_Psihopat
 NICKNAME=Vasiliy_Petrushka
 PASSWORD=0BD675D820865AEE4FBAE07676D4CB76
-FIRSTNAME1=Василий
-LASTNAME1=Петрушка
-FIRSTNAME2=Василий
-LASTNAME2=Петрушка
-FIRSTNAME3=Василий
-LASTNAME3=Петрушка
+FIRSTNAME=Василий|Арсений|Василий
+LASTNAME=Петрушка|Психоз|Психопат
+FIRSTNAME_2=Арсений
+LASTNAME_2=Психоз
+FIRSTNAME_3=Василий
+LASTNAME_3=Психопат
 MIDDLENAME=Иванович
 GENDER=0
 BIRTHDAY=17.12.1998
@@ -26,4 +26,3 @@ FAMILY=5
 TRUCKER=1
 ROBBER=1
 FISH=1
-[Twink]
