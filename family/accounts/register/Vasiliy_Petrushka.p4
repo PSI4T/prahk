@@ -1,9 +1,13 @@
 [Player]
-ACCOUNTS=Vasiliy_Petrushka|Arseniy_Psychoz
+ACCOUNTS=Vasiliy_Petrushka|Arseniy_Psychoz|Vasiliy_Psihopat
 NICKNAME=Vasiliy_Petrushka
 PASSWORD=0BD675D820865AEE4FBAE07676D4CB76
-FIRSTNAME=Василий
-LASTNAME=Петрушка
+FIRSTNAME1=Василий
+LASTNAME1=Петрушка
+FIRSTNAME2=Василий
+LASTNAME2=Петрушка
+FIRSTNAME3=Василий
+LASTNAME3=Петрушка
 MIDDLENAME=Иванович
 GENDER=0
 BIRTHDAY=17.12.1998
@@ -14,7 +18,7 @@ SUCCESS=12
 SCORE=0
 COIN=0
 WARN=0
-RANK=100
+RANK=20
 INVITED=30.08.2018
 REGISTERED=30.08.2018
 [Access]
@@ -23,5 +27,3 @@ TRUCKER=1
 ROBBER=1
 FISH=1
 [Twink]
-FirstName=Арсений
-LastName=Псайхоз
