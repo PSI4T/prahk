@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Danil_Everestov
+INITIALS=Данил Еверестов
 NICKNAME=Danil_Everestov
 PASSWORD=498A81D83D1EB3EE6CBF072A203541A5
 FIRSTNAME=Даниил

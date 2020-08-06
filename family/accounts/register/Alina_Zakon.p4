@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Alina_Zakon|Alina_Sand
+INITIALS=Алина Закон|Алина Сэнд
 NICKNAME=Alina_Zakon
 Password=938CEB9B79DF979EB3B24C037DB9DB09
 FirstName=Алина
@@ -22,6 +23,3 @@ FAMILY=1
 TRUCKER=0
 ROBBER=0
 FISH=0
-[Twink]
-FirstName=Алина
-LastName=Сэнд

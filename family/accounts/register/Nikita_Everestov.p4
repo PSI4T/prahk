@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Nikita_Everestov|Waldemar_Everestov
+INITIALS=Никита Эверестов|Волдемор Эверестов
 NICKNAME=Nikita_Everestov
 PASSWORD=4C64B8DD32AC76FE680899C932B83A76
 FIRSTNAME=Никита
@@ -22,6 +23,3 @@ FAMILY=2
 TRUCKER=0
 ROBBER=1
 FISH=0
-[Twink]
-FirstName=Волдемор
-LastName=Эверестов

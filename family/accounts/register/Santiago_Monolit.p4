@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Santiago_Monolit|Andriy_Monolit
+INITIALS=Сантиаго Монолит|Андрей Монолит
 NICKNAME=Santiago_Monolit
 PASSWORD=14C07853FDCFB98DE9C995890C3A8D00
 FIRSTNAME=Андрей
@@ -22,6 +23,3 @@ FAMILY=3
 TRUCKER=0
 ROBBER=1
 FISH=0
-[Twink]
-FirstName=Андрей
-LastName=Монолит

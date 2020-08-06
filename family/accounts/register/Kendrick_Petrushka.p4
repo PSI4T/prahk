@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Kendrick_Petrushka
+INITIALS=Кендрик Петрушка
 NICKNAME=Kendrick_Petrushka
 PASSWORD=4CB210DB6D83A7225126506147795D1C
 FIRSTNAME=Кендрик

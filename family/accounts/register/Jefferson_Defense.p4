@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Jefferson_Defense
+INITIALS=Джеффесон Дефенц
 NICKNAME=Jefferson_Defense
 PASSWORD=306B0FF1E7344E954FAE28CDAD7A9333
 FIRSTNAME=Джеффесон

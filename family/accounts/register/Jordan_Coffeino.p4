@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Jordan_Coffeino|Jordan_Steinmann
+INITIALS=Джордан Коффеино|Джордан Стеинман
 NICKNAME=Jordan_Coffeino
 PASSWORD=F7ADAEB76F6554BC303363595196BE79
 FIRSTNAME=Джордан

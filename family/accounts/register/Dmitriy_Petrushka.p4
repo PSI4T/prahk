@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Dmitriy_Petrushka
+INITIALS=Дмитрий Петрушка
 NICKNAME=Dmitriy_Petrushka
 PASSWORD=07AF4B917928ACFE906F2EBD32E23A1A
 FIRSTNAME=Дмитрий

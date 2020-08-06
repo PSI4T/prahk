@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Iluxa_Zaxarov|Ilya_Grebnev
+INITIALS=Илья Захаров|Илья Гребнев
 NICKNAME=Iluxa_Zaxarov
 PASSWORD=A04ECC1C96206DECC222015E8A0FCDFB
 FIRSTNAME=Илья

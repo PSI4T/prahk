@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Sergey_Grebnev|Kirill_Dental|Tatsuki_Psychoz|Loki_King
+INITIALS=Сергей Гребнев|Кирилл Дентал|Татсуки_Психоз|Локи Кинг
 NICKNAME=Sergey_Grebnev
 PASSWORD=AD72D267E9ECB72BC6E5F39927A59D6E
 FIRSTNAME=Сергей
@@ -9,7 +10,7 @@ GENDER=0
 BIRTHDAY=01.03.2000
 NICKNAMES=Sergey_Grebnev
 URL=292760782
-SUCCESS=12
+SUCCESS=123
 [Family]
 SCORE=6237
 COIN=0
@@ -19,9 +20,6 @@ INVITED=11.11.2018
 REGISTERED=11.11.2018
 [Access]
 FAMILY=3
-TRUCKER=1
+TRUCKER=0
 ROBBER=1
-FISH=0
-[Twink]
-FirstName=Кирилл
-LastName=Дентал
+FISH=1

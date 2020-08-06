@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Vlad_Forester|Alex_Chester
+INITIALS=Влад Форестер|Алекс Честер
 NICKNAME=Vlad_Forester
 PASSWORD=3E59D7D789C258E3AF23C974AEB040ED
 FIRSTNAME=Влад
@@ -22,6 +23,3 @@ FAMILY=1
 TRUCKER=0
 ROBBER=1
 FISH=0
-[Twink]
-FirstName=Алекс
-LastName=Честер

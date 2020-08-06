@@ -1,5 +1,6 @@
 [Player]
 ACCOUNTS=Nekit_Grebnev|Nikita_Grebnev
+INITIALS=Никит Гребнев|Никита Гребнев
 NICKNAME=Nekit_Grebnev
 PASSWORD=10A3849E7EF74CBB3CC792BF76600E93
 FIRSTNAME=Никит
@@ -22,6 +23,3 @@ FAMILY=1
 TRUCKER=0
 ROBBER=1
 FISH=0
-[Twink]
-FirstName=Некита
-LastName=Гребнев
