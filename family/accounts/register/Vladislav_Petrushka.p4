@@ -7,6 +7,7 @@ FIRSTNAME=Владислав
 LASTNAME=Петрушка
 MIDDLENAME=Юрьевич
 GENDER=0
+BIRTHDAY=13.12.2003
 NICKNAMES=Vlad_Shcherbakov>Vladislav_Petrushka
 URL=249303541
 SUCCESS=2

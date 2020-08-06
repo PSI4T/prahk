@@ -7,6 +7,7 @@ FIRSTNAME=Илья
 LASTNAME=Захаров
 MIDDLENAME=Сергеевич
 GENDER=1
+BIRTHDAY=15.03.2005
 NICKNAMES=Iluxa_Grebnev>Ilya_Grebnev>Iluxa_Zaxarov
 URL=454011972
 SUCCESS=0

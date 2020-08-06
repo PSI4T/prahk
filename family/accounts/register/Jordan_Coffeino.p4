@@ -7,6 +7,7 @@ FIRSTNAME=Джордан
 LASTNAME=Коффеино
 MIDDLENAME=Иванович
 GENDER=0
+BIRTHDAY=13.07.2002
 NICKNAMES=Andrey_Verhovny>Jordan_Steinmann>Jonni_Capuleti>Jordan_Petrushka>Jordan_Dental>Jordan_Ghost>Erjan_Mathers
 URL=330010124
 SUCCESS=0
