@@ -7,7 +7,6 @@ FIRSTNAME=Тим
 LASTNAME=Цибин
 MIDDLENAME=Петрушкович
 GENDER=0
-BIRTHDAY=09.01.2003
 NICKNAMES=Tim_Tsibin
 URL=260599466
 SUCCESS=2
@@ -23,6 +22,3 @@ FAMILY=1
 TRUCKER=0
 ROBBER=1
 FISH=0
-[Twink]
-FirstName=Тату
-LastName=Мастер

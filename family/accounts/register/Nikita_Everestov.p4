@@ -7,7 +7,6 @@ FIRSTNAME=Никита
 LASTNAME=Эверестов
 MIDDLENAME=Петрушкович
 GENDER=0
-BIRTHDAY=12.09.2004
 NICKNAMES=Nikita_Xyeter>Nikita_Everestov>Rikki_Rich>Nikita_Everestov
 URL=301307316
 SUCCESS=12
