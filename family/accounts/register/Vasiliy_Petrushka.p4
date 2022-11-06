@@ -2,7 +2,7 @@
 ACCOUNTS=Vasiliy_Petrushka|Arseniy_Psychoz|Vasiliy_Psihopat
 INITIALS=Василий Петрушка|Арсений Психоз|Василий Психопат
 NICKNAME=Vasiliy_Petrushka
-PASSWORD=0BD675D820865AEE4FBAE07676D4CB76
+PASSWORD=B05010C4E2AC544F0CFA887A4E7FD643
 FIRSTNAME=Василий
 LASTNAME=Петрушка
 MIDDLENAME=Иванович
