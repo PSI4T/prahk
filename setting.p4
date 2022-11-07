@@ -1,5 +1,5 @@
 [SCRIPT]
-Version=0.3.7.5
+Version=0.3.7.6
 Date=06.11.2022
 Url=https://github.com/PSI4T/prahk/blob/master/apps/PRASMART.exe?raw=true
 Name=PRASMART
