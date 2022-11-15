@@ -1,7 +1,7 @@
 [Player]
-ACCOUNTS=Conor_Hokage|Dexter_Bunt
-INITIALS=Конор Хокаге|Декстер Бунт
-NICKNAME=Conor_Hokage
+ACCOUNTS=Stasik_Petrushka|Dexter_Bunt
+INITIALS=Стасик Петрушка|Декстер Бунт
+NICKNAME=Stasik_Petrushka
 PASSWORD=7782F7EE3CA6457F4CAF78565AF17D35
 FIRSTNAME=Антон
 LASTNAME=Петрушка
